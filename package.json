@@ -1,0 +1,27 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "description": "To make it easy for you to get started with GitLab, here's a list of recommended next steps.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NBLCKNGHT/coyotetextil-ai.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/NBLCKNGHT/coyotetextil-ai/issues"
+  },
+  "homepage": "https://github.com/NBLCKNGHT/coyotetextil-ai#readme",
+  "dependencies": {
+    "@whiskeysockets/baileys": "^7.0.0-rc.9",
+    "pg": "^8.16.3",
+    "pino": "^10.1.1",
+    "pino-pretty": "^13.1.3"
+  }
+}
